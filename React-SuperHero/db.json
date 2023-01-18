@@ -1,0 +1,44 @@
+{
+  "superHerosList": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "image": "https://www.superherodb.com/gallery2/075/395/39568.webp",
+      "civil": "Bruce Wayne",
+      "age": "35",
+      "ville": "Gotham City"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "image": "https://www.superherodb.com/gallery2/075/475/47594.webp",
+      "civil": "Clark Kent",
+      "age": 28,
+      "ville": "Metropolis"
+    },
+    {
+      "id": 3,
+      "name": "Green Lantern",
+      "image": "https://www.superherodb.com/gallery2/075/181/18105.webp",
+      "civil": "Hal Jordan",
+      "age": 30,
+      "ville": "Coast City"
+    },
+    {
+      "name": "Bulbizarre",
+      "image": "https://www.pokepedia.fr/images/thumb/e/ef/Bulbizarre-RFVF.png/250px-Bulbizarre-RFVF.png",
+      "civil": "",
+      "age": "2",
+      "ville": "Kanto",
+      "id": 4
+    },
+    {
+      "name": "Salamèche",
+      "image": "https://www.pokepedia.fr/images/thumb/8/89/Salam%C3%A8che-RFVF.png/800px-Salam%C3%A8che-RFVF.png",
+      "civil": "",
+      "age": "2",
+      "ville": "Kanto",
+      "id": 5
+    }
+  ]
+}
